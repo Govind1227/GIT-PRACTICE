@@ -1,1 +1,2 @@
 This Git2 text
+1 Git2 Commit
