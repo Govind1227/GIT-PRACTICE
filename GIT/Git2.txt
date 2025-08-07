@@ -3,3 +3,4 @@ This Git2 text
 feature1 text
 2 feature1 text
 Amending the line in the 2 feature1 text commit
+This is just for testing
