@@ -1,3 +1,5 @@
 This Git2 text
 1 Git2 Commit
 feature1 text
+2 feature1 text
+Amending the line in the 2 feature1 text commit
